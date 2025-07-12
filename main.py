@@ -1,3 +1,5 @@
+print("Hello Mars")
+
 mission_computer = """timestamp,event,message
 2023-08-27 10:00:00,INFO,Rocket initialization process started.
 2023-08-27 10:02:00,INFO,Power systems online. Batteries at optimal charge.
